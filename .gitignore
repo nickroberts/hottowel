@@ -1,0 +1,16 @@
+# Ignore hidden folders
+.*/
+
+# Ignore OS generated files
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Ignore development things
+bower_components/
+node_modules/
+npm-debug.log
+
+# Ignore build folder
+build/
